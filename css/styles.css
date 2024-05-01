@@ -48,12 +48,24 @@ table {
     text-decoration: none;
 }
 
+.leadershipLink:visited{
+    color: blue;
+}
+
 .orgLink {
     color: black;
     text-decoration: none;
   }
 
+  .orgLink:visited{
+    color: blue;
+}
+
 .awardLink{
     color: black;
     text-decoration: none;
+}
+
+.awardLink:visited{
+    color: blue;
 }
